@@ -1,3 +1,8 @@
+```bash
+git clone https://github.com/bagrorg/NvChad ~/.config/nvim/
+```
+
+
 <h1 align="center">NvChad</h1>
 
 <div align="center">
