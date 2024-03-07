@@ -6,7 +6,7 @@ local plugins = {
         "rust-analyzer",
         "clangd",
         "mypy",
-        "pyright",
+        "python-lsp-server",
       },
     },
   },
