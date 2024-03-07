@@ -6,6 +6,7 @@ local plugins = {
         "rust-analyzer",
         "clangd",
         "mypy",
+        "pyright",
       },
     },
   },
