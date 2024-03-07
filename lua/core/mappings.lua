@@ -133,14 +133,14 @@ M.lspconfig = {
   -- See `<cmd> :help vim.lsp.*` for documentation on any of the below functions
 
   n = {
-    ["<leader>gD"] = {
+    ["gD"] = {
       function()
         vim.lsp.buf.declaration()
       end,
       "LSP declaration",
     },
 
-    ["<leader>gd"] = {
+    ["gd"] = {
       function()
         vim.lsp.buf.definition()
       end,
